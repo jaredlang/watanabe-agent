@@ -1,0 +1,15 @@
+python-dotenv
+yfinance
+praw
+#pydantic
+openai
+langchain
+langchain_openai
+chromadb
+bs4
+tiktoken
+requests
+apify-client
+streamlit
+fastapi[all]
+uvicorn[standard]

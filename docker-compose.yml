@@ -1,0 +1,7 @@
+version: '3'
+services:
+  fastapi-svc: 
+    build:
+      context: . 
+    ports: 
+      - 8000:8000 # Map port 8000 (container) to (host)
